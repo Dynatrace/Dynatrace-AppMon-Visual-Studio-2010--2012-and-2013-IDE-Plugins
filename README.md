@@ -5,7 +5,7 @@
 ![images_community/download/attachments/47186029/icon.png](images_community/download/attachments/47186029/icon.png)
 
 This plugin only works if used with **Visual Studio 2010/2012/2013 Ultimate**! If you're using another edition of Visual Studio 2010/2012/2013, please see [Visual Studio 2005 and 2008 IDE
-Plugins](https://community/display/DL/Visual+Studio+2005+and+2008+IDE+Plugins).
+Plugins](https://github.com/dynaTrace/Dynatrace-Visual-Studio-2005-and-2008-IDE-Plugins).
 
 dynaTrace provides plugins for Visual Studio 2010/2012/2013 to enable **Automatic Code Lookups** from the dynaTrace Client, **Automatic Agent injection** when launching an application from the IDE,
 **Integration** to the Visual Studio **Load Testing** Feature.
@@ -17,7 +17,7 @@ dynaTrace provides plugins for Visual Studio 2010/2012/2013 to enable **Automati
 | Author |dynaTrace Software
 | License | [dynaTrace BSD](dynaTraceBSD.txt)
 | Support | [Supported](https://community.compuwareapm.com/community/display/DL/Support+Levels)
-| Known Problems | [KB-424 Visual Studio Plugin will not work](https:///community.compuwareapm.com/community/display/KB/KB-424+Visual+Studio+Plugin+will+not+work)  
+| Known Problems | [KB-424 Visual Studio Plugin will not work](https://community.compuwareapm.com/community/display/KB/KB-424+Visual+Studio+Plugin+will+not+work)  
 | | [KB-462 Visual Studio shows error number 80131515 on startup](https://community.dynatrace.com/community/display/KB/KB-462+Visual+Studio+shows+error+number+80131515+on+startup+when+Add-in+is+activated)
 | Release History | 2010-04-14 Initial Release
 | | 2010-11-02 Release for dynaTrace 3.5
@@ -34,7 +34,7 @@ dynaTrace provides plugins for Visual Studio 2010/2012/2013 to enable **Automati
 
 All you need to do is to
 
-  1. extract the files of the [dynaTrace Plugin depending on your dynaTrace version](Visual_Studio_2010,_2012_and_2013_IDE_Plugins.html#47186029_VisualStudio2010%2C2012and2013IDEPlugins-plugindetails) to your _My Documents\Visual Studio 2010\Addins_ directory. If the _Addins_ directory does not exist, create it. 
+  1. extract the downlaoded file to your _My Documents\Visual Studio 2010\Addins_ directory. If the _Addins_ directory does not exist, create it. 
 
   2. Make sure that the downloaded files do not have the "blocked" file attribute under Windows 7. Change that to unblocked 
 
@@ -107,7 +107,7 @@ Preconditions
 
 Here are the steps to install this plugin:
 
-  1. Download and copy / unzip the [ _dynaTrace Web Test Plugin for Visual Studio 2010 Load Testing_ depending on your dynaTrace version](Visual_Studio_2010,_2012_and_2013_IDE_Plugins.html#47186029_VisualStudio2010%2C2012and2013IDEPlugins-plugindetails) into your Load Testing Project. 
+  1. Unzip the downloaded file into your Load Testing Project. 
 
   2. Make sure that the downloaded files do not have the "blocked" file attribute under Windows 7. Change that to unblocked 
 
