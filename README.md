@@ -3,7 +3,6 @@
 ## Overview
 
 ![images_community/download/attachments/47186029/icon.png](images_community/download/attachments/47186029/icon.png)
-
 This plugin only works if used with **Visual Studio 2010/2012/2013 Ultimate**! If you're using another edition of Visual Studio 2010/2012/2013, please see [Visual Studio 2005 and 2008 IDE
 Plugins](https://github.com/dynaTrace/Dynatrace-Visual-Studio-2005-and-2008-IDE-Plugins).
 
